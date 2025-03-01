@@ -3,9 +3,9 @@
 <p align="center">
 <kbd>
 <img 
-    src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966"
+    src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
     alt="Coding" 
-    width="400"
+    width="600"
     height="400" 
     style="border: 2px solid #ccc; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></img>
 </kbd>
